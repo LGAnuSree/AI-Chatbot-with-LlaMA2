@@ -21,5 +21,6 @@ This is a very simple chatbot that uses LlaMA2 model for reading, analyzing and 
 - sentence-transformers
 - python-docx
 - concurrent.futures
+  
 NOTE: This can be stored as requirements.txt and run _'pip install requirements.txt'_
 
