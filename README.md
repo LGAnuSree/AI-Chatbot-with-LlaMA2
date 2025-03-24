@@ -25,8 +25,6 @@ This is a very simple chatbot that uses LlaMA2 model for reading, analyzing and 
 NOTE: This can be stored as requirements.txt and run _'pip install requirements.txt'_
 
 # Main source file to run: app.py (run this file after installing all necessary packages)
-"D:\ANU PROJECT\test_images\WhatsApp Image 2025-03-24 at 15.35.17_9654da04.jpg"
+![App Screenshot](screenshots/main_page.jpg)
 
-
-# PDF UPLOAD:
 
