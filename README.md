@@ -27,4 +27,19 @@ NOTE: This can be stored as requirements.txt and run _'pip install requirements.
 # Main source file to run: app.py (run this file after installing all necessary packages)
 ![App Screenshot](screenshots/main_page.jpg)
 
+# PDF UPLOAD
+![App Screenshot](screenshots/pdf_upload.jpg)
+
+# WORD UPLOAD
+![App Screenshot](screenshots/word_upload.jpg)
+
+# CSV UPLOAD
+![App Screenshot](screenshots/csv_upload.jpg)
+
+# IMAGE UPLOAD
+![App Screenshot](screenshots/image_upload.jpg)
+
+# VIDEO UPLOAD
+![App Screenshot](screenshots/video_upload.jpg)
+
 
